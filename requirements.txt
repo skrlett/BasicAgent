@@ -1,0 +1,4 @@
+duckduckgo-search
+openai
+instructor
+dotenv
